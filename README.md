@@ -2,3 +2,5 @@
 Repository for Medbioinfo course 2023
 
 COMMIT A1
+CHANGED README FILE, COMMIT B1
+
